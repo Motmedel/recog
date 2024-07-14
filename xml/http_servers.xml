@@ -265,7 +265,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="1" name="service.version"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:{service.version}"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server{service.version}"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows NT"/>
@@ -280,7 +280,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="5.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:5.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server5.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows 2000"/>
@@ -294,7 +294,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="5.1"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:5.1"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server5.1"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows XP"/>
@@ -308,7 +308,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="6.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:6.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server6.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2003"/>
@@ -322,7 +322,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="7.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:7.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server7.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2008"/>
@@ -336,7 +336,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="7.5"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:7.5"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server7.5"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2008 R2"/>
@@ -350,7 +350,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="8.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:8.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server8.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2012"/>
@@ -364,7 +364,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="8.5"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:8.5"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server8.5"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2012 R2"/>
@@ -378,7 +378,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="0" name="service.version" value="10.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:10.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server10.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.certainty" value="0.5"/>
@@ -391,7 +391,7 @@
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
     <param pos="1" name="service.version"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:{service.version}"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server{service.version}"/>
   </fingerprint>
 
   <fingerprint pattern="^Microsoft-IIS$">
@@ -400,7 +400,7 @@
     <param pos="0" name="service.vendor" value="Microsoft"/>
     <param pos="0" name="service.product" value="IIS"/>
     <param pos="0" name="service.family" value="IIS"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:iis:-"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server-"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
   </fingerprint>
@@ -2624,7 +2624,7 @@
     <param pos="0" name="service.vendor" value="AIOHTTP Project"/>
     <param pos="0" name="service.product" value="AIOHTTP"/>
     <param pos="2" name="service.version"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:aiohttp_project:aiohttp:{service.version}"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:aiohttp:aiohttp:{service.version}"/>
     <param pos="1" name="python.version"/>
   </fingerprint>
 
@@ -4935,7 +4935,7 @@
     <param pos="0" name="service.vendor" value="darkhttpd Project"/>
     <param pos="0" name="service.product" value="darkhttpd"/>
     <param pos="1" name="service.version"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:darkhttpd_project:darkhttpd:{service.version}"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:unix4lyfe:darkhttpd:{service.version}"/>
   </fingerprint>
 
   <fingerprint pattern="^ServerTech-AWS/v(\d+(?:\.\d+)*[a-z](?:-[a-z][0-9])*)$">
