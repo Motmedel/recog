@@ -262,10 +262,10 @@
     <description>Microsoft IIS 1.0 - 4.0 runs on Windows NT 4.0</description>
     <example service.version="4.0">Microsoft-IIS/4.0</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="1" name="service.version"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:{service.version}"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:{service.version}"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows NT"/>
@@ -277,10 +277,10 @@
     <description>Microsoft IIS 5.0 runs on Windows 2000</description>
     <example>Microsoft-IIS/5.0</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="5.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:5.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:5.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows 2000"/>
@@ -291,10 +291,10 @@
     <description>Microsoft IIS 5.1 runs on Windows XP</description>
     <example>Microsoft-IIS/5.1</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="5.1"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:5.1"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:5.1"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows XP"/>
@@ -305,10 +305,10 @@
     <description>Microsoft IIS 6.0 runs on Windows Server 2003 (and Windows XP x64)</description>
     <example>Microsoft-IIS/6.0</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="6.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:6.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:6.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2003"/>
@@ -319,10 +319,10 @@
     <description>Microsoft IIS 7.0 runs on Windows Server 2008 (and Windows Vista)</description>
     <example>Microsoft-IIS/7.0</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="7.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:7.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:7.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2008"/>
@@ -333,10 +333,10 @@
     <description>Microsoft IIS 7.5 runs on Windows Server 2008 R2 (and Windows 7)</description>
     <example>Microsoft-IIS/7.5</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="7.5"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:7.5"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:7.5"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2008 R2"/>
@@ -347,10 +347,10 @@
     <description>Microsoft IIS 8.0 runs on Windows Server 2012 (and Windows 8)</description>
     <example>Microsoft-IIS/8.0</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="8.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:8.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:8.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2012"/>
@@ -361,10 +361,10 @@
     <description>Microsoft IIS 8.5 runs on Windows Server 2012 R2 (and Windows 8.1)</description>
     <example>Microsoft-IIS/8.5</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="8.5"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:8.5"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:8.5"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.product" value="Windows Server 2012 R2"/>
@@ -375,10 +375,10 @@
     <description>Microsoft IIS 10.0 runs on Windows Server 2016 and 2019</description>
     <example>Microsoft-IIS/10.0</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="0" name="service.version" value="10.0"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:10.0"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:10.0"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
     <param pos="0" name="os.certainty" value="0.5"/>
@@ -388,19 +388,19 @@
     <description>Microsoft IIS new, unknown Windows version</description>
     <example service.version="9.0">Microsoft-IIS/9.0</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
     <param pos="1" name="service.version"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:{service.version}"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:{service.version}"/>
   </fingerprint>
 
   <fingerprint pattern="^Microsoft-IIS$">
     <description>Microsoft IIS, no version information</description>
     <example>Microsoft-IIS</example>
     <param pos="0" name="service.vendor" value="Microsoft"/>
-    <param pos="0" name="service.product" value="IIS"/>
-    <param pos="0" name="service.family" value="IIS"/>
-    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_server:-"/>
+    <param pos="0" name="service.product" value="Internet Information Services"/>
+    <param pos="0" name="service.family" value="Internet Information Services"/>
+    <param pos="0" name="service.cpe23" value="cpe:/a:microsoft:internet_information_services:-"/>
     <param pos="0" name="os.vendor" value="Microsoft"/>
     <param pos="0" name="os.family" value="Windows"/>
   </fingerprint>
